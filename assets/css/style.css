@@ -4025,6 +4025,5 @@ img.road_img {
       url(/assets/img/bg.jpg);
     background-attachment: fixed;
     background-position: center;
-    filter: blur(5px);
   }
 }
