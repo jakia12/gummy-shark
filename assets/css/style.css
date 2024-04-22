@@ -3973,11 +3973,11 @@ ul.cs-list.cs-style2 li:not(:last-child) {
 
 /********modified css********/
 .cs-accent_btn {
-  background-image: linear-gradient(108.18deg, #14e5fc -12.02%, #d72c79 60%);
+  background-image: linear-gradient(108.18deg, #a819ff -12.02%, #18ddff 60%);
 }
 
 .cs-gradient_color {
-  background: linear-gradient(108.18deg, #00bcd4 -12.02%, #db1c8b 60%);
+  background: linear-gradient(108.18deg, #a819ff -12.02%, #18ddff 60%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
